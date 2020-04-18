@@ -1,0 +1,19 @@
+---
+title: "HW0"
+author: "Furkan Efe"
+date: "4/18/2020"
+output: html_document
+---
+
+```{r,echo=FALSE,results="hide"}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
+```
+
+This is the Homework 0 for the IE360.
+
+1. [Time series forecasting for ](https://blogs.oracle.com/datascience/introduction-to-forecasting-with-arima-in-r)
+
+    This example is important because it introduces the forecasting methodology using ARIMA models in R. The steps are ...
+
+2. [Here](https://machinelearningmastery.com/time-series-forecasting/) are the 10 time series forcasting example.
